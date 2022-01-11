@@ -1,2 +1,2 @@
 # TDD
-Test driven development example using XUnit
+A small test driven development (tdd) example using xUnit.
